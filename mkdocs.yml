@@ -1,0 +1,9 @@
+site_name: Modulos
+nav:
+    - Home: index.md
+    - Modulos:
+        - Getting Started: modulos/index.md
+        - Pipeline: modulos/pipeline/index.md
+    - Modulos.Testing: modulos.testing/index.md
+    - Modulos.Messaging: modulos.messaging/index.md
+theme: readthedocs
