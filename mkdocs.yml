@@ -3,7 +3,10 @@ nav:
     - Home: index.md
     - Modulos:
         - Getting Started: modulos/index.md
-        - Pipeline: modulos/pipeline/index.md
-    - Modulos.Testing: modulos.testing/index.md
-    - Modulos.Messaging: modulos.messaging/index.md
+        - Pipeline pattern: modulos/pipeline/index.md
+    - Modulos.Testing:
+        - Getting Started: modulos.testing/index.md
+        - Testing with database: modulos.testing/database/index.md
+    - Modulos.Messaging:
+        - Getting Started: modulos.messaging/index.md
 theme: readthedocs
