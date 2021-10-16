@@ -1,10 +1,13 @@
 # What is Modulos ? 
-It's a very simple library that brings a proposal on how to thread application configuration process. With Modulos you can share functionalities over projects/solutions/organizations via modules that affects application in predictible way. It's also usefull to split single application into more readable parts. 
+It's a very simple library that brings a proposal on how to treat the application configuration
+process. With Modulos you can share functionalities over projects/solutions/organizations via modules
+that affect the application in a predictable way. It's also useful to split the single application
+into more readable parts.
 
 Besides even if you don't like the whole library ;( you still can use some of the exposed functionalities (e.q. pipelines).
 
 # Pipelines
-Modulos uses in many places the concept of pipelines, it may be useful if you take a look into [pipeline documentation](modulos/pipeline/index.md)
+Modulos uses in many places the concept of the pipelines, it may be useful if you take a look into [pipeline documentation](modulos/pipeline/index.md)
 
 # Study case
 Let's say we prepared functionality to collect the history of CRUD operations and decided to share this using NuGet package.  
