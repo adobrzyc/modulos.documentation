@@ -1,10 +1,8 @@
 # What is Modulos ? 
-It's a very simple library that brings a proposal on how to treat the application configuration
+It's a simple library that brings a proposal on how to treat the application configuration
 process. With Modulos you can share functionalities over projects/solutions/organizations via modules
 that affect the application in a predictable way. It's also useful to split the single application
 into more readable parts.
-
-Besides even if you don't like the whole library ;( you still can use some of the exposed functionalities (e.q. pipelines).
 
 # Pipelines
 Modulos uses in many places the concept of the pipelines, it may be useful if you take a look into [pipeline documentation](modulos/pipeline/index.md)
